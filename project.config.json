@@ -7,11 +7,10 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "dist/",
+	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "wxe7517d835b4a9b9f",
-	"projectname": "12",
-	"libVersion": "2.3.1",
+	"appid": "touristappid",
+	"projectname": "mpvue-iview",
 	"condition": {
 		"search": {
 			"current": -1,

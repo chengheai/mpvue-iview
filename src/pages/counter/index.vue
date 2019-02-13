@@ -4,8 +4,6 @@
     <p>
       <button @click="increment">+</button>
       <button @click="decrement">-</button>
-      <i-button @click="decrement" type="info">Info</i-button>
-      <i-button @click="increment" type="warning">Warning</i-button>
     </p>
 
     <a href="/pages/index/main" class="home">去往首页</a>

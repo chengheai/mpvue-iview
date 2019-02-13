@@ -5,7 +5,6 @@
         <card :text="(index + 1) + ' . ' + log"></card>
       </li>
     </ul>
-    <i-button type="success">Primary</i-button>
   </div>
 </template>
 

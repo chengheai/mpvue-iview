@@ -1,6 +1,3 @@
 {
-  "navigationBarTitleText": "查看启动日志",
-  "usingComponents": {
-    "i-button": "../../../static/iview/button/index"
-  }
+  "navigationBarTitleText": "查看启动日志"
 }
